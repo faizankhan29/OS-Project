@@ -1,2 +1,2 @@
 # OS-Project
-Basic Linux Bash Shell.
+Basic Linux Shell in C.
